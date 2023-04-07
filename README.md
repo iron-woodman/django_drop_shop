@@ -1,0 +1,1 @@
+# django_drop_shop
